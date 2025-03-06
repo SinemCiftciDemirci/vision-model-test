@@ -1,4 +1,4 @@
-Vision Model Test
+##Vision Model Test
 A Python-based project that integrates text translation and image generation using Hugging Face models. This project processes fairy tale summaries, translates them from Turkish to English, and generates illustrations using Stable Diffusion. Feel free to try different translation and vision models.
 
 📌 Features
